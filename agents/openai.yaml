@@ -1,0 +1,4 @@
+interface:
+  display_name: "Pixel Spritesheet Slicer"
+  short_description: "Slice action sheets into frames"
+  default_prompt: "帮我把这张包含动作的像素角色大图分析并切成按动作分类的小图，生成 manifest 和预览。"
